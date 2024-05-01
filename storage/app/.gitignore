@@ -1,0 +1,9 @@
+*
+!public/
+!.gitignore
+
+# Seeder data
+!data/
+!data/*
+!data/*/*
+!data/*/*/*
