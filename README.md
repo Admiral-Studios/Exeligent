@@ -1,4 +1,4 @@
-# Exeligent : Sample Laravel project
+# Exeligent: Sample Laravel project
 <p align="center"><a><img src="https://github.com/Admiral-Studios/Exeligent/blob/main/public/images/main.jpg?raw=true" width="1920" alt="Main"></a></p>
 
 ## Description
